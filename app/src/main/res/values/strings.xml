@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pais e Filhos</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome_pai">Nome do pai</string>
+    <string name="nome_filho">Nome do filho</string>
+    <string name="criar">Criar</string>
+    <string name="title_activity_pai">Pai</string>
+    <string name="title_activity_filho">Filho</string>
+    <string name="title_activity_criar_pai">Adicionar Pai</string>
+    <string name="title_activity_criar_filho">Adicionar Filho</string>
+</resources>
