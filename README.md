@@ -2,7 +2,7 @@
 
 Exemplo de app para Android desenvolvido em Java no Android Studio. 
 O app apresenta um cadastro de pais e seus respectivos filhos.
-As seguintes funcionalidade estão implementadas:
+As seguintes funcionalidades estão implementadas:
  * Listar pais;
  * Inserir pai;
  * Excluir pai;
